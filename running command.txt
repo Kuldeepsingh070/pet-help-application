@@ -1,0 +1,4 @@
+E:
+cd pet_help_recommendation_systems
+venv\Scripts\activate
+streamlit run app_streamlit.py

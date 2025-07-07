@@ -1,0 +1,340 @@
+{
+  "mumbai": [
+    {
+      "name": "Bombay Veterinary Hospital",
+      "address": "Dadar, Mumbai",
+      "phone": "022-242312"
+    },
+    {
+      "name": "Parel Veterinary Clinic",
+      "address": "Parel, Mumbai",
+      "phone": "022-24234567"
+    },
+    {
+      "name": "Chembur Veterinary Hospital",
+      "address": "Chembur, Mumbai",
+      "phone": "022-26788900"
+    },
+    {
+      "name": "Bandra Veterinary Center",
+      "address": "Bandra, Mumbai",
+      "phone": "022-26412345"
+    }
+  ],
+  "pune": [
+    {
+      "name": "Pune Pet Care Hospital",
+      "address": "Kothrud, Pune",
+      "phone": "020-33445566"
+    },
+    {
+      "name": "Baner Veterinary Clinic",
+      "address": "Baner, Pune",
+      "phone": "020-66778899"
+    },
+    {
+      "name": "Shivajinagar Animal Clinic",
+      "address": "Shivajinagar, Pune",
+      "phone": "020-55554444"
+    },
+    {
+      "name": "Koregaon Park Vet Clinic",
+      "address": "Koregaon Park, Pune",
+      "phone": "020-33334455"
+    }
+  ],
+  "palghar": [
+    {
+      "name": "Palghar Veterinary Clinic",
+      "address": "Palghar, Maharashtra",
+      "phone": "0250-123456"
+    },
+    {
+      "name": "Virar Pet Care Center",
+      "address": "Virar, Palghar",
+      "phone": "0250-987654"
+    },
+    {
+      "name": "Boisar Animal Clinic",
+      "address": "Boisar, Palghar",
+      "phone": "0250-789456"
+    },
+    {
+      "name": "Nalasopara Pet Hospital",
+      "address": "Nalasopara, Palghar",
+      "phone": "0250-654321"
+    }
+  ],
+  "surat": [
+    {
+      "name": "Surat Veterinary Hospital",
+      "address": "City Center, Surat",
+      "phone": "0261-1234567"
+    },
+    {
+      "name": "Surat Pet Care Center",
+      "address": "Ghod Dod Road, Surat",
+      "phone": "0261-2345678"
+    },
+    {
+      "name": "Vesu Animal Clinic",
+      "address": "Vesu, Surat",
+      "phone": "0261-8765432"
+    }
+  ],
+  "ahmedabad": [
+    {
+      "name": "Ahmedabad Veterinary Clinic",
+      "address": "Vastrapur, Ahmedabad",
+      "phone": "079-1234567"
+    },
+    {
+      "name": "PetCare Animal Clinic",
+      "address": "Navrangpura, Ahmedabad",
+      "phone": "079-2345678"
+    },
+    {
+      "name": "Maninagar Animal Hospital",
+      "address": "Maninagar, Ahmedabad",
+      "phone": "079-3456789"
+    }
+  ],
+  "vadodara": [
+    {
+      "name": "Vadodara Pet Clinic",
+      "address": "Alkapuri, Vadodara",
+      "phone": "0265-123456"
+    },
+    {
+      "name": "Sardar Vallabhbhai Veterinary Hospital",
+      "address": "Racecourse, Vadodara",
+      "phone": "0265-234567"
+    },
+    {
+      "name": "Bapod Animal Care",
+      "address": "Bapod, Vadodara",
+      "phone": "0265-345678"
+    }
+  ],
+  "rajkot": [
+    {
+      "name": "Rajkot Veterinary Center",
+      "address": "Alka Chowk, Rajkot",
+      "phone": "0281-123456"
+    },
+    {
+      "name": "Kasturba Veterinary Hospital",
+      "address": "Station Road, Rajkot",
+      "phone": "0281-234567"
+    },
+    {
+      "name": "Rajkot Animal Care Clinic",
+      "address": "Mavdi, Rajkot",
+      "phone": "0281-345678"
+    }
+  ],
+  "surendranagar": [
+    {
+      "name": "Surendranagar Veterinary Clinic",
+      "address": "Sardarnagar, Surendranagar",
+      "phone": "02752-123456"
+    },
+    {
+      "name": "Surendranagar Pet Care",
+      "address": "Main Road, Surendranagar",
+      "phone": "02752-234567"
+    },
+    {
+      "name": "Mithapur Animal Care",
+      "address": "Mithapur, Surendranagar",
+      "phone": "02752-345678"
+    }
+  ],
+  "bharuch": [
+    {
+      "name": "Bharuch Animal Clinic",
+      "address": "GIDC, Bharuch",
+      "phone": "02642-123456"
+    },
+    {
+      "name": "Bharuch Pet Care",
+      "address": "Bharuch, Gujarat",
+      "phone": "02642-234567"
+    },
+    {
+      "name": "Bharuch Veterinary Hospital",
+      "address": "Narmada Nagar, Bharuch",
+      "phone": "02642-345678"
+    }
+  ],
+  "kheda": [
+    {
+      "name": "Kheda Animal Care",
+      "address": "Kheda, Gujarat",
+      "phone": "0268-123456"
+    },
+    {
+      "name": "Nadiad Veterinary Center",
+      "address": "Nadiad, Kheda",
+      "phone": "0268-234567"
+    },
+    {
+      "name": "Matar Pet Clinic",
+      "address": "Matar, Kheda",
+      "phone": "0268-345678"
+    }
+  ],
+  "vapi": [
+    {
+      "name": "Vapi Veterinary Clinic",
+      "address": "Vapi, Gujarat",
+      "phone": "0260-1234567"
+    },
+    {
+      "name": "Vapi Pet Care Center",
+      "address": "GIDC Vapi, Gujarat",
+      "phone": "0260-2345678"
+    },
+    {
+      "name": "Vapi Animal Hospital",
+      "address": "Near Railway Station, Vapi",
+      "phone": "0260-3456789"
+    }
+  ],
+  "jaipur": [
+    {
+      "name": "Jaipur Pet Hospital",
+      "address": "C-Scheme, Jaipur",
+      "phone": "0141-1234567"
+    },
+    {
+      "name": "Paws Veterinary Clinic",
+      "address": "Malviya Nagar, Jaipur",
+      "phone": "0141-2345678"
+    },
+    {
+      "name": "Rajasthan Animal Care",
+      "address": "Shiv Marg, Jaipur",
+      "phone": "0141-3456789"
+    }
+  ],
+  "udaipur": [
+    {
+      "name": "Udaipur Veterinary Clinic",
+      "address": "Surajpole, Udaipur",
+      "phone": "0294-123456"
+    },
+    {
+      "name": "Udaipur Pet Care Center",
+      "address": "Hiran Magri, Udaipur",
+      "phone": "0294-234567"
+    },
+    {
+      "name": "Lake City Animal Clinic",
+      "address": "Lake City, Udaipur",
+      "phone": "0294-345678"
+    }
+  ],
+  "jodhpur": [
+    {
+      "name": "Jodhpur Animal Hospital",
+      "address": "Jodhpur, Rajasthan",
+      "phone": "0291-123456"
+    },
+    {
+      "name": "Jodhpur Pet Clinic",
+      "address": "Shastri Nagar, Jodhpur",
+      "phone": "0291-234567"
+    },
+    {
+      "name": "Rajasthan Pet Care",
+      "address": "Ratanada, Jodhpur",
+      "phone": "0291-345678"
+    }
+  ],
+  "lucknow": [
+    {
+      "name": "Lucknow Veterinary Clinic",
+      "address": "Hazratganj, Lucknow",
+      "phone": "0522-1234567"
+    },
+    {
+      "name": "Pet Care Center, Lucknow",
+      "address": "Aliganj, Lucknow",
+      "phone": "0522-2345678"
+    },
+    {
+      "name": "Kanpur Road Animal Clinic",
+      "address": "Kanpur Road, Lucknow",
+      "phone": "0522-3456789"
+    }
+  ],
+  "kanpur": [
+    {
+      "name": "Kanpur Veterinary Clinic",
+      "address": "Govind Nagar, Kanpur",
+      "phone": "0512-123456"
+    },
+    {
+      "name": "Pet Care Center, Kanpur",
+      "address": "Mall Road, Kanpur",
+      "phone": "0512-234567"
+    },
+    {
+      "name": "Kanpur Animal Care",
+      "address": "Civil Lines, Kanpur",
+      "phone": "0512-345678"
+    }
+  ],
+  "agra": [
+    {
+      "name": "Agra Veterinary Clinic",
+      "address": "Tajganj, Agra",
+      "phone": "0562-123456"
+    },
+    {
+      "name": "Agra Pet Hospital",
+      "address": "Fatehabad Road, Agra",
+      "phone": "0562-234567"
+    },
+    {
+      "name": "Sadar Bazar Animal Clinic",
+      "address": "Sadar Bazar, Agra",
+      "phone": "0562-345678"
+    }
+  ],
+  "varanasi": [
+    {
+      "name": "Varanasi Pet Care",
+      "address": "Sigra, Varanasi",
+      "phone": "0542-123456"
+    },
+    {
+      "name": "Varanasi Animal Hospital",
+      "address": "Rathyatra, Varanasi",
+      "phone": "0542-234567"
+    },
+    {
+      "name": "Kashi Veterinary Clinic",
+      "address": "Assi Ghat, Varanasi",
+      "phone": "0542-345678"
+    }
+  ],
+  "meerut": [
+    {
+      "name": "Meerut Veterinary Clinic",
+      "address": "Meerut City, Meerut",
+      "phone": "0121-123456"
+    },
+    {
+      "name": "Meerut Pet Hospital",
+      "address": "Garh Road, Meerut",
+      "phone": "0121-234567"
+    },
+    {
+      "name": "Meerut Animal Care",
+      "address": "Shastri Nagar, Meerut",
+      "phone": "0121-345678"
+    }
+  ]
+}
